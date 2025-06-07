@@ -1,15 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+涓�鍚嶄腑鍥藉叡浜т富涔夐潚骞村洟鍥㈠憳
+A Member of the Communist Youth League of China
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
-#### 邮箱/Email  
+#### 閭/Email  
 <code>wen_liuqingyang@163.com</code>
 
-#### 社交媒体/Social media
+#### 绀句氦濯掍綋/Social media
 [Bilibili]()
 
-#### 教育/Education  
-**就读学校/School:** 
+#### 鏁欒偛/Education  
+**灏辫瀛︽牎/School:** 
 
 #### Research Interests  
 None.
