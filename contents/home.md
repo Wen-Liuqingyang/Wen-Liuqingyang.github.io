@@ -2,19 +2,14 @@
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### ÓÊÏä/Email  
+<code>wen_liuqingyang@163.com</code>
 
-#### Education  
-**XX University**, Master of XX (XX â€“ XX)  
-â€¢ GPA: XX/XX  
+#### Éç½»Ã½Ìå/Social media
+[Bilibili]()
 
-**XX University**, Exchange student <br>  
-â€¢ As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX â€“ XX)  
-â€¢ GPA: XX/XX (top XX%)  
+#### ½ÌÓý/Education  
+**¾Í¶ÁÑ§Ð£/School:** 
 
 #### Research Interests  
-XX, XX, XX, XX.
+None.
